@@ -7,7 +7,7 @@
  * In the same directory, create a new directory called 'images'.
  * Inside this 'images' directory place the image files you would like to read the exif data from.
  * 
- * Go to the url of this script and run, eg. put url in browser and press return.
+ * Go to the url of this script in your browser and run (press return).
  * 
  * Nothing is changed on the images by using the script; you may run it as many times as you like and change the images as you like.
  * 
